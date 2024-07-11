@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Camila Fernandes
-- 🌱 I’m currently learning Python, Java Script, React Native
+- 🌱 I’m currently learning Typescript, React, React Native
 - 📫 How to reach me camilaferna140494@gmail.com

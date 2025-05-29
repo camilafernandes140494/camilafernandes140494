@@ -27,7 +27,7 @@ Sou desenvolvedora Frontend com foco em criar experiências intuitivas e acessí
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilafernandes140494&show_icons=true&theme=radical" alt="Camila's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernandes140494&layout=compact&theme=radical&hide=c%2B%2B,c,html,shell" />
 </p>
 
 ---
